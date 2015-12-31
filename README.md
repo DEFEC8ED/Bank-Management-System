@@ -1,3 +1,3 @@
 # Bank-Management-System
 
-Made by: Sunrix & zpx
+Made by: sunrix & zpx
