@@ -1,5 +1,4 @@
-# Bankster
-Bank Management System
+# Bankster - Bank Management System
 
 Made by: sunrix & zpx
 
